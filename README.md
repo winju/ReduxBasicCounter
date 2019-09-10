@@ -1,0 +1,2 @@
+# ReduxBasicCounter
+A Redux Counter example(without any styling) to demonstarte all the Redux components to take care while creating the React application.Separate files for REDUCERS , ACTIONS have been created. createStorehas been used to link to the REDUCERS so that data can be accessed by them,PROVIDERS have been used so that the store data can be used across the application.A good design pattern used for REDUX.
